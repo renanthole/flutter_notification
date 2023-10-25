@@ -15,11 +15,15 @@ Pré-requisitos</p>
 
 <p>Clone este repositório em sua máquina local:</p>
 
-<code>git clone https://github.com/seuusuario/nome-do-seu-aplicativo.git</code>
-<code>cd nome-do-seu-aplicativo</code>
+<p><code>git clone https://github.com/renanthole/flutter_notification</code></p>
+<p><code>cd flutter_notification</code></p>
 
 <p>Execute o comando flutter pub get para instalar as dependências do projeto:</p>
 
+<p><code>cd flutter_local_notifications</code></p>
+<code>flutter pub get</code>
+
+<p><code>cd example</code></p>
 <code>flutter pub get</code>
 
 <p>Verifique se um dispositivo ou emulador está disponível e conectado:</p>
